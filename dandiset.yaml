@@ -5,12 +5,12 @@
 about: []
 access:
 - schemaKey: AccessRequirements
-  status: dandi:EmbargoedAccess
+  status: dandi:OpenAccess
 assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Allen Institute Openscope - Tmp (2023). (Version draft) [Data set]. DANDI
+citation: Allen Institute Openscope - Tmp (2024). (Version draft) [Data set]. DANDI
   archive. https://dandiarchive.org/dandiset/000487/draft
 contributor:
 - awardNumber: 1 R01 CA 123456-01A1
